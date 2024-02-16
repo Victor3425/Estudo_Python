@@ -1,0 +1,8 @@
+Em Python, os métodos de classes são função definidas dentro de uma classe, que realizam operações específicas em objetos criados a partit dessa classe. 
+Os métodos de classes são usadas para implementar o comportamento dos objetos que pertencem a essa classe.
+
+Assim como as funções e, Python, os métodos de classes podem receber argumentos e retornar valores. No entanto, diferente das funções normais,
+os métodos de classes sempre incluem o parâmetro self como primeiro argumento, que é usado para se refirir ao objeto atual da classe.
+
+O método init é im método especial  que é chamado quando um objeto é criado a parir da classe. Este método é usado para inicilizar os atributos do objeto. 
+Outros métodos podem podem ser ser definidos para executar tarefas específicas em um objetos, como clacular valores, realizar operações de entrada e saída ou alterar o estado do objeto.

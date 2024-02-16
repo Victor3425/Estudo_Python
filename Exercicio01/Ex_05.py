@@ -1,0 +1,3 @@
+dic = {}
+
+print(dic)
